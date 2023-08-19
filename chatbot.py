@@ -1,6 +1,6 @@
 import streamlit as st
 from streamlit_chat import message
-from utils import get_initial_message, get_chatgpt_response, update_chat
+
 import openai
 
 def get_initial_message():
